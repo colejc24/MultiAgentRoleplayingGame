@@ -8,7 +8,6 @@ human_proxy = ConversableAgent(
     human_input_mode="ALWAYS",
 )
 
-
 dungeonMaster = ConversableAgent(
     "DM",
     system_message="You are a dungeon master for a tabletop role-playing game.",
@@ -46,7 +45,7 @@ dwarfPlayer = ConversableAgent(
 )
 
 group_chat = GroupChat(
-    agents=[dungeonMaster, goblinPlayer, elfPlayer, dwarfPlayer],
+    agents=[dungeonMaster, goblinPlayer, elfPlayer, dwarfPlayer, human_proxy],
     messages=[],
     max_round=10,
 )
@@ -61,3 +60,6 @@ chat_result = dungeonMaster.initiate_chat(
     message="Start a new game of Dungeons and Dragons.",
     summary_methods="reflection_with_llm"
 )
+
+with open("dnd_game.txt", "w") as text_file:
+    text_file.write(chat_result)

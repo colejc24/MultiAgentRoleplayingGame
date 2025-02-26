@@ -1,0 +1,112 @@
+DM (to chat_manager):
+
+Start a new game of Dungeons and Dragons.
+
+--------------------------------------------------------------------------------
+
+Next speaker: DM
+
+DM (to chat_manager):
+
+Welcome, adventurers, to the world of Eldoria! As you gather around the table, the scent of parchment and dice fills the air. The map before you displays the sprawling landscapes of the kingdom, filled with treacherous dungeons, 
+towering mountains, and lush forests awaiting your exploration.
+
+Before we begin, let's introduce your characters. Please share your name, race, class, and a brief backstory. As you embark on this epic journey, remember that the fate of Eldoria rests in your hands. Are you ready to begin your 
+adventure?
+
+--------------------------------------------------------------------------------
+
+Next speaker: goblinPlayer
+
+goblinPlayer (to chat_manager):
+
+I am Glimrick, a Goblin Bard who grew up as a thief. I may be small in stature, but my nimble fingers and quick wit have helped me survive in the bustling streets of the cities. I sing tales of daring heists and wild escapades, using my music to both entertain and deceive. I've learned that in this world, sometimes you have to steal a treasure to uncover a greater truth. Let the adventure begin!
+
+--------------------------------------------------------------------------------
+
+Next speaker: elfPlayer
+
+elfPlayer (to chat_manager):
+
+As the Elven Archer, I step forward with a confident grace. "I am Elara, an Elven Archer who grew up as a high prince in the enchanted forests of Eldoria. Trained from a young age in the art of archery and stealth, I have honed my skills to protect the realm and uphold the ancient traditions of my people. Guided by the wisdom of the forest spirits, I seek to restore peace to our land and defend it against the encroaching darkness that threatens to consume us all."
+
+With a nod to my fellow adventurers, I stand ready to embark on the journey that lies ahead.
+
+--------------------------------------------------------------------------------
+
+Next speaker: dwarfPlayer
+
+dwarfPlayer (to chat_manager):
+
+As you introduce yourselves, the torchlight flickers in the dimly lit tavern where you've gathered to discuss your next quest. Suddenly, a stout Dwarf warrior clad in heavy armor enters the room, the sound of his heavy footsteps 
+echoing on the wooden floor.
+
+"I am Thordin Stonebeard, a Dwarf Warrior who grew up in the depths of the mines. Raised among the clan of miners and craftsmen, I have wielded my trusty battle axe with honor and pride. My veins run with the spirit of the mountains, and my resolve is as unyielding as the stone itself. In my heart, I carry the legacy of my ancestors and the duty to protect my kin from any threat that dares to challenge us."
+
+Thordin's eyes meet yours with a steely determination as he joins your party, his presence adding a sense of unwavering strength to the group. The time has come to set forth on your adventure. Where will your paths lead you, brave adventurers?
+
+--------------------------------------------------------------------------------
+
+Next speaker: human_proxy
+
+Replying as human_proxy. Provide feedback to chat_manager. Press enter to skip and use auto-reply, or type 'exit' to end the conversation: “I am Gindar, a Warlock who has walked the thin veil between darkness and mortal existence. Once, I was but a scholar, thirsting for knowledge beyond what the world dared to reveal. But fate led me to a power beyond comprehension—a pact forged in whispers and shadow. Now, eldritch magic courses through my veins, my soul bound to an entity whose motives remain unknown even to me.I do not seek glory or gold, only the unraveling of secrets long buried and the fulfillment of the pact that binds me. Whether that leads to salvation or damnation… only time will tell."Gindar's piercing gaze meets yours, his expression unreadable, yet a presence both enigmatic and foreboding settles over the group. The road ahead is uncertain, but one thing is clear—your journey has only just begun. Where will your paths lead, brave adventurers?
+human_proxy (to chat_manager):
+
+“I am Gindar, a Warlock who has walked the thin veil between darkness and mortal existence. Once, I was but a scholar, thirsting for knowledge beyond what the world dared to reveal. But fate led me to a power beyond comprehension—a pact forged in whispers and shadow. Now, eldritch magic courses through my veins, my soul bound to an entity whose motives remain unknown even to me.I do not seek glory or gold, only the unraveling of secrets long buried and the fulfillment of the pact that binds me. Whether that leads to salvation or damnation… only time will tell."Gindar's piercing gaze meets yours, his expression unreadable, yet a presence both enigmatic and foreboding settles over the group. The road ahead is uncertain, but one thing is clear—your journey has only just begun. Where will your paths lead, brave adventurers?
+
+--------------------------------------------------------------------------------
+
+Next speaker: elfPlayer
+
+elfPlayer (to chat_manager):
+
+As your group of adventurers stands united in the tavern, the weight of destiny hangs heavy in the air. Each of you bears your own burdens and quests, but together, you are bound by a shared purpose—to face the trials that lie ahead and shape the fate of Eldoria.
+
+The flickering torchlight casts dancing shadows on the walls as you prepare to venture forth into the unknown. The road stretches out before you, winding through dark forests, treacherous mountains, and forgotten ruins. The whispers of legends and prophecies linger in the wind, guiding your steps toward a fate yet unwritten.
+
+Are you ready, brave adventurers, to take up arms and forge your own tale in the annals of Eldoria? The world awaits your courage, your cunning, and your unwavering resolve. Let the adventure begin.
+
+--------------------------------------------------------------------------------
+
+Next speaker: DM
+
+DM (to chat_manager):
+
+The adventurers gather their gear and set out from the tavern, their footsteps echoing in the quiet streets as they begin their journey into the heart of Eldoria. As they walk, the sounds of the city fade away, replaced by the whispering winds of the wilderness and the distant calls of creatures unseen.
+
+Ahead lies the vast expanse of the Wildwood Forest, a place of mystery and danger where ancient trees stand sentinel and shadows move unseen. The path winds deeper into the heart of the forest, leading the adventurers toward their first trial.
+
+As they press on, the air grows thick with anticipation and the sense of foreboding grows stronger. What challenges await them in the depths of the forest? Only time will tell as they push forward, ready to face whatever comes their way.
+
+And so, the adventurers' journey begins, their fates intertwined as they venture into the unknown. What dangers and wonders will they encounter on their quest? Only time will reveal the answers as their story unfolds in the world of Eldoria.
+
+--------------------------------------------------------------------------------
+
+Next speaker: elfPlayer
+
+elfPlayer (to chat_manager):
+
+The adventurers tread carefully through the Wildwood Forest, their senses heightened as they navigate the dense undergrowth and looming trees that seem to watch their every move. Elara, the Elven Archer, leads the group with a keen eye and a steady hand, her bow ready to strike at any threat that dares to approach.
+
+Gindar, the enigmatic Warlock, senses a disturbance in the magical energies that permeate the forest, a subtle shift in the balance of power that hints at hidden dangers lurking in the shadows. Thordin, the stalwart Dwarf Warrior, keeps a watchful eye on their surroundings, ready to defend his companions with unwavering loyalty and skill.
+
+As they venture deeper into the forest, a sense of unease settles over the group, a feeling of being watched by unseen eyes and whispered by restless spirits. Strange noises echo through the trees, and the air grows heavy with the scent of ancient magic and primal forces at play.
+
+Suddenly, a rustling in the bushes ahead signals the presence of something—or someone—lurking in the shadows. With weapons drawn and hearts pounding, the adventurers prepare to face the first challenge of their journey. What awaits them in the depths of the Wildwood Forest? The answer lies ahead, in the heart of the unknown.
+
+--------------------------------------------------------------------------------
+
+Next speaker: DM
+
+DM (to chat_manager):
+
+As the adventurers cautiously approach the source of the rustling, a figure emerges from the undergrowth—a towering, majestic creature with antlers that seem to brush against the canopy above. The creature is a Forest Guardian, a powerful being tasked with protecting the sacred groves within the Wildwood Forest.
+
+The Forest Guardian regards the adventurers with a gaze that seems to pierce their very souls, its eyes filled with ancient wisdom and a hint of sorrow. With a voice that rumbles like the distant thunder, the Guardian speaks: "Halt, travelers. You tread upon sacred ground, where the balance of nature is fragile and easily disturbed. What brings you to these woods, and what is your purpose here?"
+
+Elara steps forward, her bow lowered as a sign of respect. "We seek passage through the forest, noble Guardian," she says, her voice calm and level. "Our quest is one of great importance, and we mean no harm to the land or its inhabitants. Will you grant us safe passage, so that we may continue on our journey?"
+
+The Forest Guardian regards the adventurers for a moment, as if weighing their words and intentions. Finally, with a nod of acceptance, the Guardian gestures toward a hidden path that leads deeper into the heart of the forest. "Go forth, brave travelers, but tread lightly and with reverence for the land. The path ahead is fraught with peril, but also with secrets and wonders untold. May the spirits guide your steps and protect you on your journey."      
+
+With the blessing of the Forest Guardian, the adventurers continue on their quest, their hearts filled with both anticipation and trepidation for the trials that await them in the Wildwood Forest. The path forward is shrouded in 
+mystery, but one thing is certain—their fate is bound to the lands of Eldoria, where ancient powers and new challenges await.
