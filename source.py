@@ -60,6 +60,3 @@ chat_result = dungeonMaster.initiate_chat(
     message="Start a new game of Dungeons and Dragons.",
     summary_methods="reflection_with_llm"
 )
-
-with open("dnd_game.txt", "w") as text_file:
-    text_file.write(chat_result)
